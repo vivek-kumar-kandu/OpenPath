@@ -9,6 +9,7 @@
 
 ---
 
+
 ## 💡 What is RepoGuide?
 
 Open-source can be overwhelming for beginners. A newcomer opens a large codebase (like FastAPI or Flask), gets buried under hundreds of directories, configuration files, and unfamiliar terminology, feels lost, and gives up.
